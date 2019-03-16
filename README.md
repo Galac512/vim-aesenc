@@ -11,4 +11,4 @@ Summary
 Installation
 ============
 
-To install vim-aesenc, you need to compile an AES encryption tool wrote in C++ (you need `crypto++`). Go into the `./backend/` folder and run `$ ./build.sh`.
+To install vim-aesenc, you need to compile an AES encryption tool wrote in C++ (you need `crypto++`). Go into the `./bin/` folder and run `$ ./build.sh`.
